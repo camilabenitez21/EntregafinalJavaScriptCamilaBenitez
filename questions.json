@@ -1,0 +1,38 @@
+[
+    {
+        "question": "What is the English word for 'automóvil'?",
+        "answers": {
+            "A": "Car",
+            "B": "Bicycle",
+            "C": "Motorcycle"
+        },
+        "correctAnswer": "A"
+    },
+    {
+        "question": "Which of the following is not a color?",
+        "answers": {
+            "A": "Red",
+            "B": "Green",
+            "C": "Clock"
+        },
+        "correctAnswer": "C"
+    },
+    {
+        "question": "What is the English word for 'libro'?",
+        "answers": {
+            "A": "Book",
+            "B": "Table",
+            "C": "Chair"
+        },
+        "correctAnswer": "A"
+    },
+    {
+        "question": "What is the English word for 'mesa'?",
+        "answers": {
+            "A": "Table",
+            "B": "Bed",
+            "C": "Sofa"
+        },
+        "correctAnswer": "A"
+    }
+]

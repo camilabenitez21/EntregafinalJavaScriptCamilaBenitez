@@ -1,0 +1,38 @@
+.container {
+    max-width: 800px;
+    margin: auto;
+    padding: 20px;
+}
+
+#start-container,
+#score-container {
+    text-align: center;
+}
+
+#game-container {
+    display: none;
+}
+
+#image-container {
+    height: 300px;
+    width: 300px;
+    background-size: cover;
+    margin: auto;
+}
+
+.option {
+    margin-bottom: 10px;
+}
+
+.correct {
+    background-color: green;
+}
+
+.incorrect {
+    background-color: red;
+}
+
+.score-value {
+    font-size: 3em;
+    margin: 0;
+}
